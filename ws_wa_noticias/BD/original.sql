@@ -17,7 +17,7 @@ Create Table Autor(
 	Nombre Varchar(100),
 	Apellido Varchar(100)
 )
-
+GO
 -- procedimiento almacenado
 
 CREATE PROCEDURE pa_buscar_noticia
