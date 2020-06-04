@@ -1,0 +1,14 @@
+F:\Cursos\NetCore\ApiEjercicios\ws_wa_noticias\ws_wa_noticias\bin\Debug\netcoreapp2.1\ws_wa_noticias.deps.json
+F:\Cursos\NetCore\ApiEjercicios\ws_wa_noticias\ws_wa_noticias\bin\Debug\netcoreapp2.1\ws_wa_noticias.runtimeconfig.json
+F:\Cursos\NetCore\ApiEjercicios\ws_wa_noticias\ws_wa_noticias\bin\Debug\netcoreapp2.1\ws_wa_noticias.runtimeconfig.dev.json
+F:\Cursos\NetCore\ApiEjercicios\ws_wa_noticias\ws_wa_noticias\bin\Debug\netcoreapp2.1\ws_wa_noticias.dll
+F:\Cursos\NetCore\ApiEjercicios\ws_wa_noticias\ws_wa_noticias\bin\Debug\netcoreapp2.1\ws_wa_noticias.pdb
+F:\Cursos\NetCore\ApiEjercicios\ws_wa_noticias\ws_wa_noticias\obj\Debug\netcoreapp2.1\ws_wa_noticias.csprojAssemblyReference.cache
+F:\Cursos\NetCore\ApiEjercicios\ws_wa_noticias\ws_wa_noticias\obj\Debug\netcoreapp2.1\ws_wa_noticias.csproj.CoreCompileInputs.cache
+F:\Cursos\NetCore\ApiEjercicios\ws_wa_noticias\ws_wa_noticias\obj\Debug\netcoreapp2.1\ws_wa_noticias.RazorAssemblyInfo.cache
+F:\Cursos\NetCore\ApiEjercicios\ws_wa_noticias\ws_wa_noticias\obj\Debug\netcoreapp2.1\ws_wa_noticias.RazorAssemblyInfo.cs
+F:\Cursos\NetCore\ApiEjercicios\ws_wa_noticias\ws_wa_noticias\obj\Debug\netcoreapp2.1\ws_wa_noticias.AssemblyInfoInputs.cache
+F:\Cursos\NetCore\ApiEjercicios\ws_wa_noticias\ws_wa_noticias\obj\Debug\netcoreapp2.1\ws_wa_noticias.AssemblyInfo.cs
+F:\Cursos\NetCore\ApiEjercicios\ws_wa_noticias\ws_wa_noticias\obj\Debug\netcoreapp2.1\ws_wa_noticias.RazorTargetAssemblyInfo.cache
+F:\Cursos\NetCore\ApiEjercicios\ws_wa_noticias\ws_wa_noticias\obj\Debug\netcoreapp2.1\ws_wa_noticias.dll
+F:\Cursos\NetCore\ApiEjercicios\ws_wa_noticias\ws_wa_noticias\obj\Debug\netcoreapp2.1\ws_wa_noticias.pdb
