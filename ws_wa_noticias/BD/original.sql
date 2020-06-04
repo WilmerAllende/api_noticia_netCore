@@ -18,3 +18,14 @@ Create Table Autor(
 	Apellido Varchar(100)
 )
 
+-- procedimiento almacenado
+
+CREATE PROCEDURE pa_buscar_noticia
+@titulo VARCHAR(200)
+
+AS
+	BEGIN
+		SELECT NoticiaID,Titulo,Descripcion,Contenido FROM Noticia WHERE Titulo LIKE '%' + @titulo + '%'
+	END
+
+
